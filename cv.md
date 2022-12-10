@@ -31,3 +31,11 @@
                     <img src="./assets/img/photo1.jpg" alt="portfolio-img-1" class="img-portfolio">
                 </div> 
                 </section>
+6. Coding tests, projects from RS School courses, Codewars tasks
+7. 2021-12 – Current
+Junior: Front-End Developer
+RS School – Online
+2003-09 – 2008-06
+Bachelor of Arts: History of Arts
+Belarusian State Academy of Art – Belarus
+8. Living in European countries
